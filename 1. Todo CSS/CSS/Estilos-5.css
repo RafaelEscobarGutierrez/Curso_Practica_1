@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.caja{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.posicion{
+    background-color: cadetblue;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}

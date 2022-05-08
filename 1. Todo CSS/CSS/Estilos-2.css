@@ -1,0 +1,28 @@
+h1{
+    color: coral;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+
+.p2{
+    text-align: justify;
+    text-transform: uppercase;
+    font-style: italic;
+    text-indent: 40px;
+    line-height: 1.5;
+    text-shadow: 2px 3px rgba(0, 0, 0, 0.349);
+}
+
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+a:hover{
+    text-decoration: underline ;
+}

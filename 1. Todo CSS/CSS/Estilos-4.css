@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-style: none;
+    font-size: 20px;
+}
+
+.btn:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+/* PARA BORDES */
+.base{
+    border-style: none;
+    border-radius: 30px;
+    margin: 0px 10px;
+}
+
+.base:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.grande{
+    font-size: 30px;
+    padding: 8px 20px;
+}
+.mediano{
+    font-size: 20px;
+    padding: 8px 20px;
+}
+.pequeño{
+    font-size: 15px;
+    padding: 8px 20px;
+}
+
+.azul{
+    background-color: blueviolet;
+}
+.negro{
+    background-color: gray;
+}
+.naranja{
+    background-color: orange;
+}

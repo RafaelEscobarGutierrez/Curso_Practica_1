@@ -1,0 +1,65 @@
+/* ************************************************************************************************ */
+/* ############ GENERALES ############*/
+
+
+/* MAIN */
+.principal{
+    background-color: gray;
+    width: 80%;
+    margin: auto;
+}
+
+/* TITULO PRINCIPAL */
+h1{
+    text-align: center;
+}
+
+/* BASE DEL FONDO */
+body{
+    background-color: black;
+    color: black;
+}
+
+/* TODOS LOS PARRAFOS */
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+/* ************************************************************************************************ */
+/* ############ INDIVIDUALES ############*/
+
+
+/* TODO EL SECTION DE SINOPSIS */
+.sinopsis{
+    overflow: hidden;
+    margin: 20px; /* Generar un espacio entre el contenedor hijo y el padre */
+}
+
+/* IMAGEN #1 EN SINOPSIS */
+.img1{
+    float: left;
+    padding: 0px 10px; /* Generar un espacio entre contendores que estan lado a lado */
+}
+
+/* -------------------------------------------------- */
+
+.sound{
+    overflow: hidden;
+    margin: 30px;
+}
+
+/* -------------------------------------------------- */
+
+.analisis{
+    overflow: hidden;
+    margin: 20px;
+}
+
+.img2{
+    float: right;
+    padding: 0px 0px 0px 15px;
+}
+
+#img-2{
+    border-radius: 30px;
+}

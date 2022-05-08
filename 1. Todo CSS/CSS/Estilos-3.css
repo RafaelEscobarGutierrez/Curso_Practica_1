@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ELEMENTOS DE BLOQUE */
+h1, p, div{
+    background-color: red;
+}
+
+/* ELEMENTOS DE LINEA */
+
+a{
+    background-color: yellow;
+}
+
+.paraBloque{
+    display: block;
+}

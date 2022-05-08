@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.uno{
+    background-color: aqua;
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.caja{
+    height: 250px;
+    width: 500px;
+    margin: 10px;
+}
+
+.imagen{
+    float: left;
+    width: auto;
+}
+.texto{
+    float: left;
+}
+
+.dos{
+    background-color: rgb(127, 127, 133);
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+}
+
+.dos h2{
+    padding: 10px;
+    text-align: center;
+}
+
+.dos img{
+    float: right;
+}
